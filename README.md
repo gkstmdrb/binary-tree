@@ -38,6 +38,38 @@
 ### 형제 노드
 ![image](https://user-images.githubusercontent.com/114748816/227391337-e956daff-d13b-4eab-87a0-fa953e48a8cf.png) <br><br>
 
+## 이진트리의 순회
+이진 트리의 모든 노드를 특정한 순서대로 한 번씩 방문하는 것이다. <br>
+순회하는 방법에는 전위(preorder), 중위(inorder), 후위(postorder) 순회가 있다. <br><br>
+
+### 전위 순회(Preorder)
+
+노드(루트)를 먼저 방문하고 왼쪽 서브 트리, 오른쪽 서브 트리 순으로 방문 <br><br>
+
+루트 방문 ➞ 왼쪽 서브 트리 방문 ➞ 오른쪽 서브 트리 방문 (Root -> Left -> Right) <br><br>
+
+![image](https://user-images.githubusercontent.com/114748816/227393326-5e5f3852-78fb-4cea-bd07-ff7e610055b9.png) <br><br>
+
+
+### 중위 순회(Inorder)
+
+왼쪽 서브 트리, 루트, 오른쪽 서브 트리 순으로 방문 <br><br>
+
+왼쪽 서브 트리 방문 ➞ 루트 방문 ➞ 오른쪽 서브 트리 방문 (Left -> Root -> Right) <br><br>
+
+![image](https://user-images.githubusercontent.com/114748816/227393351-96296c63-a207-4e41-a037-c960bdbd5854.png) <br><br>
+
+
+### 후위 순회(Posorder)
+
+왼쪽 서브 트리, 오른쪽 서브 트리, 루트 순으로 방문 <br><br>
+
+왼쪽 서브 트리 방문 ➞ 오른쪽 서브 트리 방문 ➞ 루트 방문 (Left -> Right -> Root) <br><br>
+
+![image](https://user-images.githubusercontent.com/114748816/227393393-13632f02-cfba-4c6c-aa75-fe52008605bb.png) <br><br>
+
+
+
 <br><br><br><br>
 ## 기초적인 자바코드
 ```java

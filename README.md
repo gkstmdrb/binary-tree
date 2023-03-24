@@ -33,8 +33,10 @@
 ![image](https://user-images.githubusercontent.com/114748816/227135110-fb1b3956-5579-40cd-87ef-6aedfd14ed13.png) <br><br>
 
 ### 후손 노드
+![image](https://user-images.githubusercontent.com/114748816/227390781-862328b4-9fc4-4643-9795-3aeb52b44755.png) <br><br>
 
 ### 형제 노드
+![image](https://user-images.githubusercontent.com/114748816/227391337-e956daff-d13b-4eab-87a0-fa953e48a8cf.png) <br><br>
 
 <br><br><br><br>
 ## 기초적인 자바코드
